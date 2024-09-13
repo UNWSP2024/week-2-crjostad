@@ -1,4 +1,8 @@
-# The ages of my friends are
-X = 15+16+16+17+18
-print("The average age of my friends is")
-print(X/5)
+a = 1
+b = 2
+c = 3
+d = 4
+e = 5
+X = a+b+c+d+e
+print("The average age of my friends is",X/5)
+
