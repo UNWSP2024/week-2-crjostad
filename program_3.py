@@ -1,6 +1,9 @@
 # Enter prices after X
-X = .99+5.75+3.99+26.99+4
-print("subtotal")
-print(X)
-print("subtotal with 7% sales tax")
-print(X+X*.07)
+a = 1
+b = 2
+c = 3
+d = 4
+e = 5
+X = a+b+c+d+e
+print("subtotal", X)
+print("subtotal with 7% sales tax", X+X*.07)
