@@ -1,13 +1,7 @@
-
-def average_age():
-    # Get User Input
-
-
-    # Sum ages
-
-    # Average the ages
-
-    # Print the results
-
-# Line which calls the above function.
-average_age()
+a = 1
+b = 2
+c = 3
+d = 4
+e = 5
+X = a+b+c+d+e
+print("The average age of my friends is", X/5)
